@@ -8,4 +8,4 @@ int main()
     printf("sum of all numbers is: %d\n",c+d+a+b);
     printf("sum of all numbers is: %d\n",d+a+b+c);
     return 0;
-}
+} 
