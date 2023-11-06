@@ -18,4 +18,5 @@ int main()
    printf("integer value with subtraction:%d\n",d);
    printf("integer value with multipication:%d\n",e);
    return 0;
+   
 }
