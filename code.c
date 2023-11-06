@@ -8,6 +8,7 @@ int main()
  printf("sum of two values is %d",c*b);
  printf("%d\n",c/b);
  return 0;
+ 
 }
 
 
